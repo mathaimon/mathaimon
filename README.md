@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m Naveen Mathew
-- 👀 I’m interested in 
+- 👀 I’m interested in
+  - Arduino
+  - IoT
   - Web Development
-  - Backend Development
   - Web Scraping
-- 🌱 I’m currently learning
-  - B.Tech at MCET Thrissur, Kerala
